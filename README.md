@@ -34,7 +34,7 @@ MarkMark is a port of the original macOS [MarkMark](https://github.com/) to Wind
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/markmark-windows.git
+git clone https://github.com/litmonw/markmark-windows.git
 cd markmark-windows
 
 # Install dependencies
